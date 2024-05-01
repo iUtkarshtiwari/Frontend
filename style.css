@@ -136,7 +136,7 @@ body {
 }
 
 #hero {
-    background-image: url(/hero4.png);
+    background-image: url("https://i.ibb.co/51bHM5z/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
